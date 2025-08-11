@@ -17,9 +17,9 @@
   "dependencies": {
     "@daimo/pay": "^1.11.2",
     "@noble/hashes": "^1.8.0",
-    "@prepaid-gas/constants": "0.0.5",
-    "@prepaid-gas/core": "0.0.5",
-    "@prepaid-gas/data": "0.0.5",
+    "@prepaid-gas/constants": "0.0.6",
+    "@prepaid-gas/core": "0.0.6",
+    "@prepaid-gas/data": "0.0.6",
     "@rainbow-me/rainbowkit": "^2.2.8",
     "@scure/bip32": "^1.7.0",
     "@scure/bip39": "^1.6.0",
